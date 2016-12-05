@@ -1,0 +1,33 @@
+<templateSet group="PHP">
+  <template name="model regions" value="&#10;# region Constants&#10;&#10;# endregion&#10;&#10;# region Variables&#10;&#10;# endregion&#10;&#10;# region Base&#10;&#10;# endregion&#10;&#10;# region Overrides&#10;&#10;# endregion&#10;&#10;# region Validations&#10;&#10;# endregion&#10;&#10;# region Events&#10;&#10;# endregion&#10;&#10;# region Relations&#10;&#10;# endregion&#10;&#10;# region Query modifications&#10;&#10;# endregion&#10;&#10;# region Finders&#10;&#10;# endregion&#10;&#10;# region Custom&#10;&#10;# endregion&#10;&#10;# region Templates, views, html and classes&#10;&#10;# endregion&#10;&#10;# region Urls&#10;&#10;# endregion&#10;&#10;# region Getters&#10;&#10;# endregion&#10;&#10;# region Setters&#10;&#10;# endregion&#10;&#10;# region Checkers&#10;&#10;# endregion&#10;&#10;# region Cache stuff&#10;&#10;# endregion&#10;&#10;" description="Inserts region for base model used on LA project" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="n Progress" value="&#10;/*************************    IN PROGRESS    ********************************************************/&#10;&#10;" description="In Progress comment" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="model base regions" value="&#10;# region Constants&#10;&#10;# endregion&#10;&#10;# region Variables&#10;&#10;# endregion&#10;&#10;# region Custom&#10;&#10;# endregion&#10;&#10;# region Getters&#10;&#10;# endregion&#10;&#10;# region Setters&#10;&#10;# endregion" description="Basic region for model class" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="mytodo" value="/**&#10; * Created $DATE$&#10; * TODO[$WHO$] $END$&#10; */" description="Todo named wit user name" toReformat="false" toShortenFQNames="true">
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <variable name="WHO" expression="user()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="vcr" value="/**&#10; * @var $this $END$&#10; *&#10; */" description="View Comment Region" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="region" value="# region $region_name$&#10;&#10;# endregion" toReformat="false" toShortenFQNames="true">
+    <variable name="region_name" expression="capitalize(String)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

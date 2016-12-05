@@ -1,0 +1,7 @@
+<templateSet group="PHPfunctions">
+  <template name="frules" value="/**&#10; * @return array&#10; */&#10;public function rules() {&#10;    $rules = parent::rules();&#10;    $rules = array_merge($rules, [&#10;        &#10;    ]);&#10;    &#10;    return $rules;&#10;}" description="Yii2 default rules method" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

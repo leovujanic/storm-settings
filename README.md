@@ -1,2 +1,0 @@
-# storm-settings
-PHPStorm settings

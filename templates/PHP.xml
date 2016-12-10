@@ -4,9 +4,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="n Progress" value="&#10;/*************************    IN PROGRESS    ********************************************************/&#10;&#10;" description="In Progress comment" toReformat="false" toShortenFQNames="true">
-    <context />
-  </template>
+  <template name="n Progress" value="&#10;/*************************    IN PROGRESS    ********************************************************/&#10;&#10;" description="In Progress comment" toReformat="false" toShortenFQNames="true" />
   <template name="model base regions" value="&#10;# region Constants&#10;&#10;# endregion&#10;&#10;# region Variables&#10;&#10;# endregion&#10;&#10;# region Custom&#10;&#10;# endregion&#10;&#10;# region Getters&#10;&#10;# endregion&#10;&#10;# region Setters&#10;&#10;# endregion" description="Basic region for model class" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />

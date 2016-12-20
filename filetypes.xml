@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="csv" type="Native" />
+      <mapping ext="woff" type="Native" />
       <mapping pattern="altering_tables 23-06-2016.sql" type="PLAIN_TEXT" />
       <mapping pattern="just somethig" type="PLAIN_TEXT" />
       <mapping pattern="altering_tables 23-06-2016" type="SQL" />

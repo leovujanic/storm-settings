@@ -1,0 +1,7 @@
+<templateSet group="WPhelpers">
+  <template name="prt" value="&#10;get_partial('xxx', [&#10;    'xxx' =&gt; $fields['xxx'],&#10;]);&#10;" description="Get partial function template" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

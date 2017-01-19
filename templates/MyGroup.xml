@@ -11,14 +11,14 @@
   </template>
   <template name="str_trans" value="&lt;?= __(&quot;$SELECTION$&quot;, &quot;${PROJECT_NAME}&quot;) ?&gt;" description="Wp string translation" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="PHP" value="true" />
       <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
     </context>
   </template>
   <template name="bu_url" value="&lt;?= bu(&quot;$SELECTION$&quot;) ?&gt;" description="Base Url" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="PHP" value="true" />
       <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
     </context>
   </template>
 </templateSet>

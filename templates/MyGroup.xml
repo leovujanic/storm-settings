@@ -15,4 +15,10 @@
       <option name="HTML" value="true" />
     </context>
   </template>
+  <template name="bu_url" value="&lt;?= bu(&quot;$SELECTION$&quot;) ?&gt;" description="Base Url" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+      <option name="HTML" value="true" />
+    </context>
+  </template>
 </templateSet>

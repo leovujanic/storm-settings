@@ -9,7 +9,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="str_trans" value="&lt;?= __(&quot;$SELECTION$&quot;, &quot;${PROJECT_NAME}&quot;) ?&gt;" description="Wp string translation" toReformat="false" toShortenFQNames="true">
+  <template name="str_trans" value="&lt;?= __('$SELECTION$', 'golden') ?&gt;" description="Wp string translation" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
       <option name="PHP" value="true" />

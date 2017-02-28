@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="plist" type="DTD" />
       <mapping ext="csv" type="Native" />
       <mapping ext="woff" type="Native" />
       <mapping pattern="AdminFenomenSearch.php" type="PLAIN_TEXT" />

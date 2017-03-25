@@ -22,7 +22,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="region" value="# region $region_name$&#10;&#10;# endregion" toReformat="false" toShortenFQNames="true">
+  <template name="region" value="# region $region_name$&#10;&#10;# endregion" description="" toReformat="false" toShortenFQNames="true">
     <variable name="region_name" expression="capitalize(String)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />

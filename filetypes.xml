@@ -11,6 +11,7 @@
       <mapping pattern="_fonts.scss" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="altering_tables 23-06-2016.sql" type="PLAIN_TEXT" />
+      <mapping pattern="_degordian.scss" type="PLAIN_TEXT" />
       <mapping pattern="LICENCE" type="PLAIN_TEXT" />
       <mapping pattern="just somethig" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />

@@ -1,0 +1,10 @@
+<application>
+  <component name="KeyPromoterStats">
+    <option name="stats">
+      <map>
+        <entry key="'⌘K'" value="1" />
+        <entry key="'⌥⌘A'" value="1" />
+      </map>
+    </option>
+  </component>
+</application>

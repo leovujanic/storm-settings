@@ -2,4 +2,7 @@
   <action id="CheckinFiles">
     <keyboard-shortcut first-keystroke="ctrl meta k" />
   </action>
+  <action id="PhpListenDebugAction">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
 </keymap>

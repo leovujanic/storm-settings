@@ -21,4 +21,11 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="app" value="Yii::$app" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+      <option name="PHP Comment" value="false" />
+      <option name="PHP String Literal" value="false" />
+    </context>
+  </template>
 </templateSet>

@@ -28,4 +28,11 @@
       <option name="PHP String Literal" value="false" />
     </context>
   </template>
+  <template name="ftodo" value="/**&#10; * Created $DATE$&#10; * Created by: $USER$&#10; * TODO[front] $END$&#10; */" description="Adds frontend todo" toReformat="false" toShortenFQNames="true">
+    <variable name="DATE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="USER" expression="user()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>

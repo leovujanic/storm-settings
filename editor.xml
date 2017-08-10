@@ -18,6 +18,14 @@
       <option name="FONT_TYPE" value="3" />
       <option name="ERROR_STRIPE_COLOR" value="54aae3" />
     </pattern>
-    <pattern pattern="\[leonardvujanic]\" />
+    <pattern pattern="\[leonardvujanic]\b.*" />
+    <pattern icon="important" pattern="\[front]\b.*" />
+    <pattern pattern="\[back]\b.*" />
+    <filter name="Front">
+      <pattern index="4" />
+    </filter>
+    <filter name="Back">
+      <pattern index="5" />
+    </filter>
   </component>
 </application>

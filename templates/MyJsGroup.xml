@@ -1,0 +1,7 @@
+<templateSet group="MyJsGroup">
+  <template name="clog" value="console.log($END$);" description="Console log" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

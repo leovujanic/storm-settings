@@ -10,9 +10,9 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="mytodo" value="/**&#10; * Created $DATE$&#10; * TODO[$WHO$] $END$&#10; */" description="Todo named wit user name" toReformat="false" toShortenFQNames="true">
+  <template name="mytodo" value="/**&#10; * Created $DATE$&#10; * TODO[$WHO$-todo] $END$&#10; */" description="Todo named wit user name" toReformat="false" toShortenFQNames="true">
     <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="false" />
-    <variable name="WHO" expression="user()" defaultValue="" alwaysStopAt="false" />
+    <variable name="WHO" expression="user()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
     </context>

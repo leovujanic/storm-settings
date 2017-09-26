@@ -5,4 +5,10 @@
   <action id="PhpListenDebugAction">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
+  <action id="Tool_External Tools_phpcb-current folder">
+    <keyboard-shortcut first-keystroke="meta alt quote" />
+  </action>
+  <action id="Tool_External Tools_phpcbf-single file">
+    <keyboard-shortcut first-keystroke="meta alt semicolon" />
+  </action>
 </keymap>

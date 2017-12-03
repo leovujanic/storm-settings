@@ -18,6 +18,7 @@
       <mapping pattern="just somethig" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="dump" type="PLAIN_TEXT" />
       <mapping pattern="_overwrites" type="SCSS" />
       <mapping pattern="altering_tables 23-06-2016" type="SQL" />

@@ -10,6 +10,7 @@
       <mapping pattern="redirects" type="PLAIN_TEXT" />
       <mapping pattern="bittrex-BTCUSD" type="PLAIN_TEXT" />
       <mapping pattern="_fonts.scss" type="PLAIN_TEXT" />
+      <mapping pattern="log" type="PLAIN_TEXT" />
       <mapping pattern="_overwrites.scss" type="PLAIN_TEXT" />
       <mapping pattern="AdminFenomenSearch.php" type="PLAIN_TEXT" />
       <mapping pattern="pv" type="PLAIN_TEXT" />

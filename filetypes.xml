@@ -6,22 +6,23 @@
       <mapping ext="woff" type="Native" />
       <mapping pattern="yii-prod" type="PHP" />
       <mapping pattern="error_log" type="PLAIN_TEXT" />
-      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping pattern="pv" type="PLAIN_TEXT" />
       <mapping pattern="storm_slice_page-temlate_live_template" type="PLAIN_TEXT" />
       <mapping pattern="redirects" type="PLAIN_TEXT" />
       <mapping pattern="bittrex-BTCUSD" type="PLAIN_TEXT" />
       <mapping pattern="_fonts.scss" type="PLAIN_TEXT" />
       <mapping pattern=".env.dist" type="PLAIN_TEXT" />
       <mapping pattern="log" type="PLAIN_TEXT" />
+      <mapping pattern="_degordian.scss" type="PLAIN_TEXT" />
       <mapping pattern="_overwrites.scss" type="PLAIN_TEXT" />
       <mapping pattern="AdminFenomenSearch.php" type="PLAIN_TEXT" />
-      <mapping pattern="pv" type="PLAIN_TEXT" />
-      <mapping pattern="_degordian.scss" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern="altering_tables 23-06-2016.sql" type="PLAIN_TEXT" />
       <mapping pattern="LICENCE" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="just somethig" type="PLAIN_TEXT" />
       <mapping ext="avsc" type="PLAIN_TEXT" />
+      <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />

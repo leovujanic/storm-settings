@@ -14,6 +14,7 @@
       <mapping pattern="_fonts.scss" type="PLAIN_TEXT" />
       <mapping pattern=".env.dist" type="PLAIN_TEXT" />
       <mapping pattern="log" type="PLAIN_TEXT" />
+      <mapping pattern="playbook.yml" type="PLAIN_TEXT" />
       <mapping pattern="_degordian.scss" type="PLAIN_TEXT" />
       <mapping pattern="_overwrites.scss" type="PLAIN_TEXT" />
       <mapping pattern="AdminFenomenSearch.php" type="PLAIN_TEXT" />

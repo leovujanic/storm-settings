@@ -11,6 +11,7 @@
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="storm_slice_page-temlate_live_template" type="PLAIN_TEXT" />
       <mapping pattern="redirects" type="PLAIN_TEXT" />
+      <mapping pattern="ansible" type="PLAIN_TEXT" />
       <mapping pattern="bittrex-BTCUSD" type="PLAIN_TEXT" />
       <mapping pattern="_fonts.scss" type="PLAIN_TEXT" />
       <mapping pattern=".env.dist" type="PLAIN_TEXT" />
